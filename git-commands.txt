@@ -1,0 +1,18 @@
+git commands
+
+git init: create a master branch ny default
+
+touch abc.txt: create a text file named "abc"
+
+git add <filename>: track a particular file
+
+git commit -m "commit message": commit
+
+git status: list the status of the files
+
+git config: git config --local user.name "Divya" //enter user's name
+            git config --local user.email "divyakhanna93@gmail.com"  //enter user's email
+            git config --local user.name  //get user's name
+            git config --local user.email  //get user's email
+
+git remote add origin 'URL...': connect to a remote repository
